@@ -1,5 +1,4 @@
 with open('/home/peter/Code/AdventOfCode2022/Day2/input', 'r') as reader:
-# Read & print the first 5 characters of the line 5 times
     lines = reader.readlines()
     print(len(lines))
     total_score = 0
